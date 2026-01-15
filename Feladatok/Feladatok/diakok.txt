@@ -1,0 +1,7 @@
+Név,Osztály
+Kovács Anna,10.A
+Nagy Péter,12.C
+Szabó Zsófia,9.B
+Horváth Márk,11.A
+Kiss Eszter,10.A
+John Doe,10.A

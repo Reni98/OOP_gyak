@@ -1,0 +1,21 @@
+autó neve; márka; üzemanyag; évjárat
+Focus;Ford;benzines;2018
+Golf;Volkswagen;dizeles;2016
+Astra;Opel;benzines;2019
+Civic;Honda;benzines;2020
+Corolla;Toyota;dizeles;2017
+Octavia;Skoda;dizeles;2015
+Megane;Renault;benzines;2018
+Clio;Renault;benzines;2016
+Passat;Volkswagen;dizeles;2019
+i30;Hyundai;benzines;2021
+Ceed;Kia;benzines;2020
+Mazda3;Mazda;benzines;2017
+A4;Audi;dizeles;2016
+A6;Audi;dizeles;2018
+Corsa;Opel;benzines;2013
+Yaris;Toyota;benzines;2019
+Fiesta;Ford;benzines;2017
+Polo;Volkswagen;benzines;2016
+Swift;Suzuki;benzines;2020
+Leon;Seat;dizeles;2018
